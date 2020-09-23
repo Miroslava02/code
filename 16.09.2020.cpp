@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include <iostream>
 using namespace std;
-//áèíîìèàëüíûé êîýôôèöèåíò
+//Ð±Ð¸Ð½Ð¾Ð¼Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾ÑÑ„Ñ„Ð¸Ñ†Ð¸ÐµÐ½Ñ‚
 int main() {
 	int n, k, c, N_1, K_1, C_1;
 	cin >> n;
