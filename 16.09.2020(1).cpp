@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cassert>
 using namespace std;
-//реализация функции Аккермана
+//СЂРµР°Р»РёР·Р°С†РёСЏ С„СѓРЅРєС†РёРё РђРєРєРµСЂРјР°РЅР°
 int A(int m, int n)
 {
 	if (m == 0) {
