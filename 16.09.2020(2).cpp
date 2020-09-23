@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cstdio>
 #include <math.h>
-//среднее арифметическое суммы последовательности кубов
+//СЃСЂРµРґРЅРµРµ Р°СЂРёС„РјРёС‚РµС‡РµСЃРєРѕРµ СЃСѓРјРјС‹ РєСѓР±РѕРІ
 using namespace std;
 int main() {
 	int N, S = 0, i = 1 ;
